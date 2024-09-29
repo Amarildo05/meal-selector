@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 18px;
+  -webkit-box-shadow: 10px 4px 30px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 4px 30px -8px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 4px 30px -8px rgba(0, 0, 0, 0.75);
+}
+
+header img {
+  width: 100px;
+}
+
+.custom-input .ant-input-clear-icon {
+  font-size: 20px;
+  width: 24px;
+  height: 24px;
+}

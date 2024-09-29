@@ -1,0 +1,10 @@
+.categories {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 32px;
+  gap: 22px;
+  font-size: 18px;
+  flex-wrap: wrap;
+
+}
